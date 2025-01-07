@@ -68,4 +68,4 @@ Include	at	least the	following	UDFs (You	may	define	your	own	prototypes):
 a)	readDataFile			(Note:	With	the	exception	of	numeric	range	checking,	you	may	
 											assume	that	the	data	file	is	syntactically	correct.)
 b)	generateLocalityRpt
-c) getDateAndTime			(same	as	HW4)
+c) getDateAndTime			
